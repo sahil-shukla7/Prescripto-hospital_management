@@ -21,14 +21,22 @@
 1. Clone the repository:
 ```bash
 git clone https://github.com/sahil-shukla7/Prescripto-hospital_management.git
+```
 
+2. Navigate into the project folder:
+```bash
 cd Prescripto-hospital_management
+```
+
+3. Install dependencies:
+```bash
 npm install
 # or
 pip install -r requirements.txt
-
-
+```
+4. Run the application:
+```bash
 npm start
 # or
 python main.py
-  
+```
