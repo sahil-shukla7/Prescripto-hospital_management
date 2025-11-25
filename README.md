@@ -1,4 +1,4 @@
-# PRESCRIPTO – Hospital Management 🏥
+# PRESCRIPTO – Hospital Management 
 
 **Prescripto** is a full-stack hospital management system designed to help doctors, patients, and administrators streamline hospital operations. It allows:  
 
