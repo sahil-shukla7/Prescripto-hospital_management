@@ -21,3 +21,14 @@
 1. Clone the repository:
 ```bash
 git clone https://github.com/sahil-shukla7/Prescripto-hospital_management.git
+
+cd Prescripto-hospital_management
+npm install
+# or
+pip install -r requirements.txt
+
+
+npm start
+# or
+python main.py
+  
